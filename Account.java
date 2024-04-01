@@ -1,7 +1,7 @@
 package object_class;
 
 
-//은행계좌라는 클래스 만들기(신한은행)   => 멤버변수 접근제한자 보호 getter setter 설정
+//은행계좌라는 클래스 만들기(신한은행)   => 멤버변수 접근제한자 보호 getter setter 설정해줘요
 public class Account {
 	
 	
